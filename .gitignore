@@ -2,11 +2,13 @@
 _gh_pages
 _site
 
+
 # Ignore ruby files
 .ruby-version
 .bundle
 vendor/cache
 vendor/bundle
+
 
 # Numerous always-ignore extensions
 *.diff
@@ -44,3 +46,4 @@ twbsconfig.yml
 
 # Folders to ignore
 node_modules
+dist
